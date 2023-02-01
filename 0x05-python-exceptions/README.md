@@ -1,0 +1,1 @@
+a readme for error handling in python.
