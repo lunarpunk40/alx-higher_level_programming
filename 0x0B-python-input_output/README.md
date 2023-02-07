@@ -1,0 +1,1 @@
+ readmw for writing and opening files in python.
